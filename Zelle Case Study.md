@@ -22,6 +22,7 @@ While the P2P technology is booming, so did scammers. They try to trick consumer
 
 
 * Which technologies are they currently using, and how are they implementing them? 
+
 Zelle is backed up by Early Warning Service, LLC., It is a Fitech company that focus on payment and risk management solutions. It’s the owner and operator of Zelle Network. Zelle’s technology partners are ACI universal payments; CGI; DB banking technology & IBM. 
 
 From Stack share Zelle use the following technologies to allow their system to operate:
