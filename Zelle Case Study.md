@@ -77,7 +77,6 @@ Thinking of Bitcoins can be trade internationally using blockchain technology an
 [American Banker](https://www.americanbanker.com/news/zelle-founder-mike-kennedy-to-helm-ripple-rival-interstellar#:~:text=Mike%20Kennedy%2C%20the%20creator%20of,digital%20currency%20payment%20technology%20company.)
 
 [Yahoo Finance](https://finance.yahoo.com/news/paypal-vs-venmo-vs-zelle-120000559.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAM1A4jmy8h_kotONymRU8Dql3H18eLSQBLQFjFWft_1JdAkJGzcZLbGMHN1vvsvrwfVbqTJa01FhZCcnwBfyFvx60xUjllDDQgwYFp2c_dW2SFbX_6xaoPCS-xiNdbhZfLV9DXh-oRkaA-r4uUcN9KKZYHMlRLp6M9v057nsp2l6)
-
 [Zelle pay](https://www.zellepay.com/press-releases/zeller-closes-2020-record-307-billion-sent-12-billion-transactions)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Zelle_(payment_service))
@@ -86,11 +85,11 @@ Thinking of Bitcoins can be trade internationally using blockchain technology an
 
 [How Big Banks Agreed to Co-Invest in Zelle](https://www.applicoinc.com/blog/how-traditional-competitors-can-achieve-platform-collaboration/)
 
-[Zelle, the Banks’ Answer to Venmo, Proves Vulnerable to Fraud - The New York Times](nytimes.com) 
+[Zelle, the Banks’ Answer to Venmo, Proves Vulnerable to Fraud - The New York Times](https://www.nytimes.com/2018/04/22/business/zelle-banks-fraud.html) 
 
-[Here's An Area Of Digital Payments That's Booming: P2P Payments](forbes.com)
+[Here's An Area Of Digital Payments That's Booming: P2P Payments](https://www.forbes.com/sites/donnafuscaldo/2019/08/23/heres-an-area-of-digital-payments-thats-booming-p2p-payments/?sh=409781ca5677)
 
-[Zelle vs. Cash App vs. Venmo—What’s the Difference?](firstalliancecu.com)
+[Zelle vs. Cash App vs. Venmo—What’s the Difference?](https://www.firstalliancecu.com/blog/zelle-vs.-cash-app-vs.-venmo-whats-the-difference)
 
 [Venmo Revenue and Usage Statistics](https://www.businessofapps.com/data/venmo-statistics/)
 
