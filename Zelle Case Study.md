@@ -74,7 +74,7 @@ Thinking of Bitcoins can be trade internationally using blockchain technology an
 
 ## References 
 
-https://www.americanbanker.com/news/zelle-founder-mike-kennedy-to-helm-ripple-rival-interstellar#:~:text=Mike%20Kennedy%2C%20the%20creator%20of,digital%20currency%20payment%20technology%20company.
+[American Banker](https://www.americanbanker.com/news/zelle-founder-mike-kennedy-to-helm-ripple-rival-interstellar#:~:text=Mike%20Kennedy%2C%20the%20creator%20of,digital%20currency%20payment%20technology%20company.)
 
 https://finance.yahoo.com/news/paypal-vs-venmo-vs-zelle-120000559.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAM1A4jmy8h_kotONymRU8Dql3H18eLSQBLQFjFWft_1JdAkJGzcZLbGMHN1vvsvrwfVbqTJa01FhZCcnwBfyFvx60xUjllDDQgwYFp2c_dW2SFbX_6xaoPCS-xiNdbhZfLV9DXh-oRkaA-r4uUcN9KKZYHMlRLp6M9v057nsp2l6
 
