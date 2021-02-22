@@ -7,7 +7,7 @@
 The peer-to-peer digital payment market is booming. Zelle is one of them. Zelle allows its customers to send and receive money through their own bank’s website and apps and Zelle’s mobile app. Zelle’s free and fast services make it stand out in the digital payment domine. The service offers person-to-person (P2P), business-to-consumer (B2C), and government-to-consumer (G2C)payments. 
 
 
-** When was the company incorporated? Who are the founders of the company?**
+* When was the company incorporated? Who are the founders of the company?
 
 Zelle was launched in 2017, formerly known as ClearXchange. It was formerly owned by serval big banks such as Bank of America, Chase, and Wells Fargo. Bank customers can receive and make payments directly between banks. In 2016 clearXchange was sold to Early Warning Services which was also owned by banks such as Captial One & US bank.  In 2017, Early Warning Services released Zelle payment system and mobile app. 
 
@@ -21,7 +21,7 @@ Mike Kennedy is the creator of the P2P payment network Zelle. He is currently th
 While the P2P technology is booming, so did scammers. They try to trick consumers into sending money via payment apps.  Zelle services have received negative publicity due to fraud. To transfer money from Zelle, the sender needs to have the receiver's email and phone number if the sender transfer money to an unknown person once the transaction is complete. To reverse the transaction almost impossible since the sender gave the authorization for the transaction. The sender's bank is not liable for fraudulent transactions. Since then, Zelle's website has warned customers only to send money that they trust and verify the receiver's information before sending out the fund.  
 
 
-* Which technologies are they currently using, and how are they implementing them? 
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 Zelle is backed up by Early Warning Service, LLC., It is a Fitech company that focus on payment and risk management solutions. It’s the owner and operator of Zelle Network. Zelle’s technology partners are ACI universal payments; CGI; DB banking technology & IBM. 
 
@@ -72,7 +72,7 @@ Since Zelle can be only used in the U.S. If Zelle can make its service internati
 
 Thinking of Bitcoins can be trade internationally using blockchain technology and blockchain is being so popular in the financial industry. I believe international money transfer also can use blockchain technology to make money transferring much more secure ad fast.  
 
-
+## References 
 
 https://www.americanbanker.com/news/zelle-founder-mike-kennedy-to-helm-ripple-rival-interstellar#:~:text=Mike%20Kennedy%2C%20the%20creator%20of,digital%20currency%20payment%20technology%20company.
 
