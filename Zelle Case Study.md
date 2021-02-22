@@ -56,7 +56,7 @@ What has been the business impact of this company so far?
 
 Compare to Venmo and Cash App, Venmo has been leading the P2P digital domain. You can see the growing trending comparison graph from 2016-2019 below. 
 
-https://infogram.com/venmo-vs-cashapp-vs-zelle-1h984we0d5xd4p3
+![Zelle](Images/Zelle Comparison.PNG)
 
 According to Yahoo Finance,  “Zelle closes 2020 with Record $307Billion sent on 1.2 Billion Transactions. Year-over-year growth increased by 62%.” Zelle’s transaction volumes increase by 58%. In 2020 nearly 500 new financial institutions have joined Zelle’s Network. "
 
