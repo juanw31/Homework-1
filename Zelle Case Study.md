@@ -52,7 +52,7 @@ The domain that Zelle is in is called the Peer-to-peer(P2P) digital payment. Dig
 In the digital payment domain, Venmo, PayPal, and Square, apple pay are also in the same field. Unlike Venmo and PayPal. Zelle does not charge any transaction fee if the customers have an in-network U.S bank account. The transactions between bank accounting almost instant since Zelle was associated with nearly 700 financial institutes.  Compared to Venmo and Square, Zelle's customer has to have a bank account or a  debit card tied to a bank account in the U.S and on it platform, Zelle does not accept credit cards or business debit cards.  
 
 
-## Results
+## Results:
 
 * **How is your company performing relative to competitors in the same domain?**
 What has been the business impact of this company so far?
@@ -65,7 +65,7 @@ According to Yahoo Finance,  “Zelle closes 2020 with Record $307Billion sent o
 ![Zelle-Comparison.PNG](Images/Zelle-Comparison.PNG)
 
 
-## Recommendations
+## Recommendations:
 
 * **If you were to advise the company, what products or services would you suggest they offer?**
  
@@ -75,7 +75,7 @@ Since Zelle can be only used in the U.S. If Zelle can make its service internati
 
 Thinking of Bitcoins can be trade internationally using blockchain technology and blockchain is being so popular in the financial industry. I believe international money transfer also can use blockchain technology to make money transferring much more secure ad fast.  
 
-## References 
+## References: 
 
 [American Banker](https://www.americanbanker.com/news/zelle-founder-mike-kennedy-to-helm-ripple-rival-interstellar#:~:text=Mike%20Kennedy%2C%20the%20creator%20of,digital%20currency%20payment%20technology%20company.)
 
