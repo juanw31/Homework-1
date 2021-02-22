@@ -87,7 +87,7 @@ Thinking of Bitcoins can be trade internationally using blockchain technology an
 
 [Stackshare](https://stackshare.io/zelle/zelle)
 
-[Here's An Area Of Digital Payments That's Booming: P2P Payments](forbes.com)
+[Here's An Area Of Digital Payments That's Booming: P2P Payments](https://www.forbes.com/sites/donnafuscaldo/2019/08/23/heres-an-area-of-digital-payments-thats-booming-p2p-payments/?sh=7b46f16b5677)
 
 [How Big Banks Agreed to Co-Invest in Zelle](https://www.applicoinc.com/blog/how-traditional-competitors-can-achieve-platform-collaboration/)
 
