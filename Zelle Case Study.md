@@ -27,17 +27,17 @@ Zelle is backed up by Early Warning Service, LLC., It is a Fitech company that f
 
 From Stack share Zelle use the following technologies to allow their system to operate:
 
-* Application and Data: CloudFlare-Content Delivery network
+1. Application and Data: CloudFlare-Content Delivery network
 
-* Utilities:
+2. Utilities:
 	* 1. Google analytics-General Analytics 
 	* 2. Google Tag Manager-Analytics Integrator  
 
-* DevOps :  
+3. DevOps :  
 	* 1. New Relic- Performance monitoring 
 	* 2. Varnish-Web Cache
 
-* Businesses Tools:
+4. Businesses Tools:
 	* 1. Drupal-Self-Hosted Blogging
 	* 2. Acquia-hosted Blogging Planforms
 
