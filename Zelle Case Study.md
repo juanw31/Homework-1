@@ -33,11 +33,13 @@ From Stack share Zelle use the following technologies to allow their system to o
 	* 1. Google analytics-General Analytics 
 	* 2. Google Tag Manager-Analytics Integrator  
 
-**DevOps :  1.New Relic- Performance monitoring 
-	    2.Varnish-Web Cache
+* DevOps :  
+	* 1.New Relic- Performance monitoring 
+	* 2.Varnish-Web Cache
 
-** Businesses Tools: 1. Drupal-Self-Hosted Blogging
-		     2. Acquia-hosted Blogging Planforms
+* Businesses Tools:
+	* 1. Drupal-Self-Hosted Blogging
+	* 2. Acquia-hosted Blogging Planforms
 
 ## Landscape:
 
