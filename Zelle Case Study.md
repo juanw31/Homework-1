@@ -69,7 +69,7 @@ According to Yahoo Finance,  “Zelle closes 2020 with Record $307Billion sent o
 
 * **If you were to advise the company, what products or services would you suggest they offer?**
  
-As of now, Zelle can be only used in the U.S. If Zelle can make its service internationally, I think it will benefit many people and the business. There are tons of international students and businessmen studying and working in the U.S. I was one of them before. Transferring money between countries has become more difficult. It takes a long time and money. Since Zelle has associations with major U.S banks and financial institutions, it should not be difficult to link banks internationally. It will definitely make  Zelle stand out in the P2P digital payment domain and also make International money transfers easily accessible for everyone.
+So far, Zelle can only be used in the U.S. If Zelle can expand its service internationally, It will benefit more foreign customers. There are tons of international students and businessmen studying and working in the U.S. I was one of them before. Transferring money between countries can be difficult.  The transfer itself takes a long time to reach its destination. The fee is high, and people have to be in the bank physically. Since Zelle has associations with major U.S banks and financial institutions, it should not be challenging to connect banks internationally. If this can happen on Zelle's platform, Zelle will stand out in the P2P digital payment domain and make International money transfers easily accessible for everyone. 
 
 * **What technologies would this additional product or service utilize?**
 
