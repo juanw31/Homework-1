@@ -1,6 +1,6 @@
 # Homework-1 Case study - Zelle
 
-# Zelle - P2P Digital payment platform
+# Zelle - P2P digital payment platform
 
 ## Overview and Origin 
 
@@ -69,7 +69,7 @@ According to Yahoo Finance,  “Zelle closes 2020 with Record $307Billion sent o
 
 * **If you were to advise the company, what products or services would you suggest they offer?**
  
-Since Zelle can be only used in the U.S. If Zelle can make its service internationally, I think it will benefit many people and the business. There are tons of international students and businessmen studying and working in the U.S. I was one of them before. Transferring money between countries has become more difficult. It takes a long time and money. Since Zelle has associations with major U.S banks and financial institutions, it should not be difficult to link banks internationally. It will definitely make  Zelle stand out in the P2P digital payment domain and also make International money transfers easily accessible for everyone
+As of now, Zelle can be only used in the U.S. If Zelle can make its service internationally, I think it will benefit many people and the business. There are tons of international students and businessmen studying and working in the U.S. I was one of them before. Transferring money between countries has become more difficult. It takes a long time and money. Since Zelle has associations with major U.S banks and financial institutions, it should not be difficult to link banks internationally. It will definitely make  Zelle stand out in the P2P digital payment domain and also make International money transfers easily accessible for everyone.
 
 * **What technologies would this additional product or service utilize?**
 
