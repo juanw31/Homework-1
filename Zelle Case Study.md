@@ -29,8 +29,9 @@ From Stack share Zelle use the following technologies to allow their system to o
 
 ** Application and Data: CloudFlare-Content Delivery network
 
-** Utilities: 1. Google analytics-General Analytics 
-	   2. Google Tag Manager-Analytics Integrator  
+* Utilities: 
+* 	1. Google analytics-General Analytics 
+* 	2. Google Tag Manager-Analytics Integrator  
 
 **DevOps :  1.New Relic- Performance monitoring 
 	    2.Varnish-Web Cache
